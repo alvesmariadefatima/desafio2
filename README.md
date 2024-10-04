@@ -18,10 +18,6 @@ O objetivo deste desafio é desenvolver uma galeria de fotos utilizando **React*
    - Ao clicar em uma imagem, deve ser exibida uma versão ampliada (modal) da imagem.
    - O layout deve ser responsivo, adaptando-se a diferentes tamanhos de tela.
 
-3. **Screenshot do projeto**
-
-<img src="./public/tela-inicial-galeria-de-fotos.png" alt="Foto da tela inicial da galeria de fotos">
-
 ## Instalação
 
 Para executar este projeto localmente, siga as etapas abaixo:
