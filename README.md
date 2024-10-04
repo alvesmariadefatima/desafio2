@@ -28,7 +28,7 @@ Para executar este projeto localmente, siga as etapas abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/desafio02.git
+   git clone https://github.com/seu-usuario/desafio2.git
    cd galeria-de-fotos
    ```
 
